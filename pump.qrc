@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="pump">
+    <file>pump_off.png</file>
+    <file>pump_on.png</file>
+  </qresource>
+</RCC>

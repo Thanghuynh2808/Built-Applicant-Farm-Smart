@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="myImage">
+    <file>cabbage.png</file>
+    <file>cucumber.png</file>
+    <file>senda.png</file>
+    <file>Tomato.png</file>
+  </qresource>
+</RCC>
